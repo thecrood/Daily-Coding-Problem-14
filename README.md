@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-14
+# Daily-Coding-Problem-14
 Daily Coading Problem Challenge
 
 This problem was asked by Google.
